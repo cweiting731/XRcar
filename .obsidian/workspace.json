@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "408c9a4c7e7d4588",
+    "type": "split",
+    "children": [
+      {
+        "id": "38dc13912db28240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25574f42a3171f35",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "資料/XR流程規劃/XR流程規劃.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "XR流程規劃"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b48f2f8c7ce7abde",
+    "type": "split",
+    "children": [
+      {
+        "id": "45118f6b1972dd7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5388a9e22d4c434",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "486ffb3e3aa60370",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "e14300657a9d229b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9a260bd60b605e33",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7181d56691acaac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29444ec8a6c861e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "資料/XR流程規劃/XR流程規劃.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "XR流程規劃 的反向連結"
+            }
+          },
+          {
+            "id": "44265cbb4851696c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "資料/XR流程規劃/XR流程規劃.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "XR流程規劃 的對外連結"
+            }
+          },
+          {
+            "id": "d92a4e4344dcba4b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "fb8e5d55dd8aff27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "資料/XR流程規劃/XR流程規劃.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "XR流程規劃 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false,
+      "obsidian-excalidraw-plugin:新建繪圖檔案": false
+    }
+  },
+  "active": "25574f42a3171f35",
+  "lastOpenFiles": [
+    "資料/XR流程規劃/XR流程規劃.md",
+    "Pasted Image 20251103161853_985.png",
+    "Pasted Image 20251103161212_158.png",
+    "資料/XR流程規劃/XR流程規劃版更紀錄.md",
+    "資訊專題(一).md",
+    "資料/114學年度指導資訊專題同意書.pdf",
+    "資料/將XR與實體小車結合以實現遠端監控與駕駛模擬.md"
+  ]
+}
